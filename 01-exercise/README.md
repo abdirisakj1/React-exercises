@@ -1,13 +1,13 @@
 # UserCard
 
-This exercise displays a simple user card component.
+This exercise displays a  user card component.
 
 It shows the following information:
 
 - **User Name**
 - **Email**
 
-Example structure used in the component:
+ structure used in the component:
 
 <h2>User Name</h2>
 <p>Email</p>
