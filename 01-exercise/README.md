@@ -1,10 +1,17 @@
 # UserCard
 
-it displays this code folder 
--- <h2> User NAME </h2>
+This exercise displays a simple user card component.
 
-AND 
+It shows the following information:
 
--- <p> email </p>
+- **User Name**
+- **Email**
 
-![result](/01-exercise/public/result.png)
+Example structure used in the component:
+
+<h2>User Name</h2>
+<p>Email</p>
+
+## Result
+
+![result](./public/result.png)
