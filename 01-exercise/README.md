@@ -7,4 +7,4 @@ AND
 
 -- <p> email </p>
 
-![result](/public/)
+![result](/01-exercise/public/result.png)
