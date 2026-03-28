@@ -18,8 +18,9 @@ function App() {
     <ProductContext.Provider
       value={{ cartItems, addToCart, removeFromCart }}
     >
-      <ProductItem id={1} name="Widget" price={19.99} />
-      <ProductItem id={2} name="Gadget" price={29.99} />
+      <ProductItem id={1} name="watch" price={13} />
+      <ProductItem id={2} name="mobile" price={175} />
+      <ProductItem id={2} name="mouse" price={2.33} />
       <CartSummary />
     </ProductContext.Provider>
   );
