@@ -1,0 +1,20 @@
+.inputTodo{
+    display: flex;
+    gap: 10px;
+}
+input{
+    flex: 1;
+    padding: 8px;
+    border: 1px solid #9f9b9b;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.inputTodo button{
+    background-color: blueviolet;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.todoItem{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ececec;
+    padding: 10px;
+    margin-block: 16px;
+    border-radius: 8px;
+}
+.todo{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.todo span{
+    font-size: 18px;
+    color: #5f5959;
+}
+.todoItem button{
+    color: #e92d2d;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight:700;
+}

@@ -1,0 +1,18 @@
+.title{
+    color: #000;
+    font-size: 30px;
+    text-align: center;
+    padding-block: 1rem;
+   
+}
+.container{
+    background-color: #ffffff;
+    width: 500px;
+    display: flex;
+    margin-top: 5rem;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0 0px 8px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 30px 10px;
+}
