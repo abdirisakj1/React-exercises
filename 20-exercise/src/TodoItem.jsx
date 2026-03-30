@@ -5,7 +5,7 @@ export const TodoItem = ({ todo }) => {
   const { dispatch } = useContext(TodoContext);
   return (
   <>
-  <li className="flex justify-between items-center my-5">
+  <li className="flex justify-between items-center my-5 bg-gray-100 p-4 rounded-lg">
     <div className="flex items-center gap-2">
       <input
         className="h-4 w-4"
