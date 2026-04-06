@@ -81,7 +81,7 @@ export const DevApplicationForm = () => {
   };
   return (
     <div className="bg-gray-200 min-h-screen p-4">
-      <div className="bg-white max-w-2xl mx-auto   p-4 shadow w-1/3 rounded-xl">
+      <div className="bg-white  mx-auto   p-4 shadow w-full md:w-1/2 lg:w-1/3 rounded-xl">
         <h2 className="text-2xl text-gray-700 text-center font-medium">
           Developer Application Form
         </h2>
